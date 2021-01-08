@@ -1,5 +1,5 @@
 <!-- ### Hi there 👋 -->
-<img align="center" src="https://i.imgur.com/gQpaU3P.gif">
+<img src="https://i.imgur.com/gQpaU3P.gif">
 
 <!--
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jademnp&show_icons=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
