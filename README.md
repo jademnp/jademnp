@@ -2,9 +2,11 @@
 
 <img src="https://i.imgur.com/gQpaU3P.gif">
 
+<!--
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jademnp&show_icons=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jademnp)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 <!--
 **jademnp/jademnp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
