@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<img src="https://i.imgur.com/gQpaU3P.gif" width="30px">
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jademnp&show_icons=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
